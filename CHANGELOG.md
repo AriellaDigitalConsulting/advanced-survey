@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0
+## 0.1.0 (review in progress, July 7th)
 
 ### Features
 
@@ -12,7 +12,7 @@
 - fallback to English for survey questions labels (instead of displaying "Choice text missing")
 - All Surveys: sort by number of answers
 
-## 0.0.3
+## 0.0.3 (June 24th, 2025)
 
 ## Features
 
@@ -23,13 +23,13 @@
 - deselect the current feed in the Survey Moderators
 - licensing: use the right widget ID
 
-## 0.0.2
+## 0.0.2 (June 20th, 2025)
 
 ## Features
 
 - Export to PDFs.
 
-## 0.0.1
+## 0.0.1 (June 11th, 2025)
 
 The initial Survey Widget release including
 
