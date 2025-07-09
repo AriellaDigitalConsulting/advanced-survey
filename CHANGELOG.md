@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0 (wip)
+
+### Features
+
+- option to ask one question at a time
+- trivia questions
+- include spaces and communities informations in the governance dashboard
+
 ## 0.1.1 (review asked on July 9th)
 
 ### Bugfixes
