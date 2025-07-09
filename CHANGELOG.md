@@ -1,6 +1,12 @@
 # Changelog
 
-## 0.1.0 (review in progress, July 7th)
+## 0.1.1 (review asked on July 9th)
+
+### Bugfixes
+
+- we are not considering anymore the aggregate answers to determine whether or not the user has answered the poll
+
+## 0.1.0 (review asked on July 7th, published on July 9th)
 
 ### Features
 
