@@ -8,7 +8,13 @@
 - trivia questions
 - include spaces and communities informations in the governance dashboard
 
-## 0.1.1 (review asked on July 9th)
+## 0.1.2 (review asked on July 11th)
+
+### Bugfixes
+
+- improve the container ID detection on a community
+
+## 0.1.1 (review asked on July 9th, published on July 11th)
 
 ### Bugfixes
 
