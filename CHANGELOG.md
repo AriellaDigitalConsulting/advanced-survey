@@ -1,6 +1,13 @@
 # Changelog
 
-## 0.2.0 (wip)
+## 0.3.0 (August 6th)
+
+### Features
+
+- Export the CSVs to Google Spreadsheets (for Google Users)
+- More details in the detailed export (user first, last, question title)
+
+## 0.2.0 (July 31st)
 
 ### Features
 
