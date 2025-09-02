@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.4.0 (next)
+
+## Features
+
+- Save the survey settings to our service (enabled by default)
+  - Disable this if you do not want to send data to our own server
+  - Disabling this feature implies that Surveys removed from a Space or a Community will not anymore be exportable
+- Webhooks
+  - Events (answer submitted) can be sent to a third party platform (such as Zapier)
+- Debounced text fields
+  - Improving the user experience when typing the title of a question, of a survey or a question choice label
+- Full screen analytics
+  - We've seen our widget on very small surfaces; instead of miniaturizing the survey analytics, let's use the entire screen to display them!
+
 ## 0.3.0 (August 6th)
 
 ### Features
