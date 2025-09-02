@@ -13,6 +13,7 @@
   - Improving the user experience when typing the title of a question, of a survey or a question choice label
 - Full screen analytics
   - We've seen our widget on very small surfaces; instead of miniaturizing the survey analytics, let's use the entire screen to display them!
+- Detailed Export: include the value of the choice selected by the user (choices questions)
 
 ## 0.3.0 (August 6th)
 
