@@ -4,6 +4,7 @@
 
 ### Features
 
+- Trivia questions: provide a feedback (positive/negative)
 - New “Survey Answered” options:
   - Collective Recap: view all participants’ answers
   - Personal Recap: view only your own answers
