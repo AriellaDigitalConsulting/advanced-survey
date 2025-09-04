@@ -1,6 +1,14 @@
 # Changelog
 
-## 0.4.0 (next)
+## 0.5.0 (next)
+
+- New “Survey Answered” options:
+  - Collective Recap: view all participants’ answers
+  - Personal Recap: view only your own answers
+  - Thank You: show a customizable thank-you message
+- In Collective Recap, include all submitted free-text answers
+
+## 0.4.0 (September 4th)
 
 ## Features
 
