@@ -2,11 +2,18 @@
 
 ## 0.5.0 (next)
 
+### Features
+
 - New “Survey Answered” options:
   - Collective Recap: view all participants’ answers
   - Personal Recap: view only your own answers
   - Thank You: show a customizable thank-you message
 - In Collective Recap, include all submitted free-text answers
+- Detailed export improvements
+
+### No longer broken
+
+- Automatic Google Drive export for Google users
 
 ## 0.4.0 (September 4th)
 
