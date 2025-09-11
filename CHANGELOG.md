@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.5.0 (next)
+## 0.5.0 (September 10th)
 
 ### Features
 
