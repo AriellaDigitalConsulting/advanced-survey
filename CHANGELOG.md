@@ -1,10 +1,19 @@
 # Changelog
 
+## next
+
+### No longer broken
+
+- Multiple Choices (not quizzes) are not anymore marked as Incorrect in the detailed export
+- Use the wording 'quiz' instead of 'trivia' for questions with a correct/incorrect formulation.
+- Number of correct choices rather than correct answers
+
 ## 0.5.0 (September 10th)
 
 ### Features
 
 - Trivia questions: provide a feedback (positive/negative)
+![Markdown feedback](assets/markdown-feedback.png)
 - New “Survey Answered” options:
   - Collective Recap: view all participants’ answers
   - Personal Recap: view only your own answers
