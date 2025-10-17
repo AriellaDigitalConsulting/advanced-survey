@@ -2,6 +2,13 @@
 
 ## next
 
+### Features
+
+- support passing the authentication token in a different header
+- support passing query parameters to the answers service
+
+## 0.5.1 (October 17th)
+
 ### No longer broken
 
 - Multiple Choices (not quizzes) are not anymore marked as Incorrect in the detailed export
